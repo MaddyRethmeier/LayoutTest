@@ -1,0 +1,11 @@
+github_users:
+  - CagtayFabry
+  - MichaelRethmeier
+  - AndreasPittner
+
+repo_description_lines_max: 2
+
+github_repos:
+  - BAMWelDX/weldx
+  - BAMWelDX/weldx-widgets
+  - CagtayFabry/pytcs
